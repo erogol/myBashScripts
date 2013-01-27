@@ -119,4 +119,7 @@ else
 fi
 fi
 
+sudo ldconfig /usr/local/cuda-5/lib
+sudo ldconfig /usr/local/cuda-5/lib64
+
 exit 0
